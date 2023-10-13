@@ -11,6 +11,7 @@ packaging==23.2
 Pillow==10.0.1
 psycopg2-binary==2.9.9
 PyJWT==2.8.0
+python-decouple==3.8
 pytz==2023.3.post1
 PyYAML==6.0.1
 sqlparse==0.4.4
